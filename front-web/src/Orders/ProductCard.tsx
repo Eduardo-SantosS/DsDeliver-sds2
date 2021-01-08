@@ -1,4 +1,3 @@
-import { type } from 'os';
 import { Product } from './types';
 
 type Props = {
